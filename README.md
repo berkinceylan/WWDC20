@@ -1,5 +1,5 @@
 # Shapes
-WWDC 2020 Swift Coding Challenge Submission by Berkin Ceylan
+**WWDC 2020 Swift Coding Challenge Submission by Berkin Ceylan.**
 
 # About
 
