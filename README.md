@@ -1,5 +1,6 @@
 # Shapes
 **WWDC 2020 Swift Coding Challenge Submission by Berkin Ceylan.**
+![](https://raw.githubusercontent.com/berkinceylan/WWDC20/master/Contents/Resources/header.png)
 
 # About
 
