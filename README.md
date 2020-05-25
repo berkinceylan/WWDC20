@@ -6,7 +6,7 @@
 
 # About
 
-Welcome to my WWDC20 Swift Coding Challenge Project. This playground aims to break down the preconceptions that students might feel about geometry. Thus, encouraged them to produce more creative solutions to the events in the future.
+Welcome to my WWDC20 Swift Student Challenge playground which developed with **SwiftUI**. This playground aims to break down the preconceptions that students might feel about geometry. Thus, encouraged them to produce more creative solutions to the events in the future.
 
 # Getting Started
 
