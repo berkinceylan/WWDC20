@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/berkinceylan/WWDC20/master/Contents/Resources/header.png)
 
-**WWDC 2020 Swift Coding Challenge Submission by Berkin Ceylan.**
+**Watch with YouTube: https://www.youtube.com/watch?v=uN7Ea_Ihduw**
 
 # About
 
